@@ -21,6 +21,7 @@ align-items: center;
 h1 {
     font-size: 4.5rem;
     text-transform: uppercase;
+    color: #38a1f3;
 }
 .quote-container {
     width: auto;
@@ -48,6 +49,7 @@ h1 {
     font-size: 2rem;
     font-weight: 400;
     font-style: italic;
+    color: #38a1f3;
 }
 
 .button-container {
@@ -71,6 +73,7 @@ button {
 
 button:hover {
     opacity: 0.8;
+    color: #38a1f3;
 }
 
 button:active {
@@ -78,9 +81,9 @@ button:active {
     box-shadow: 0 0.1rem rgba(255, 255, 255, 0.65);
 }
 
-.twitter-button:hover {
-    color: #38a1f3;
-}
+/* .twitter-button:hover {
+    
+} */
 
 .fa-twitter {
     font-size: 1.5rem;
